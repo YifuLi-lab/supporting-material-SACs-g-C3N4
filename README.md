@@ -1,0 +1,1 @@
+This repository provides supporting materials for the research article titled "Machine Learning-Driven Screening of g-C₃N₄ Supported Single-Atom Catalysts for CO₂ Conversion and Potential Syngas Production."
